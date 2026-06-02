@@ -121,9 +121,8 @@ Contributions are welcome! To contribute:
 6. Open a Pull Request
 
 Please ensure your code follows the existing style and passes linting.
+![13142](readmeImages/img-sYbZz3Lr.gif)
 
 ## License
-<!-- re-attach image: wp7965201-gojo-satoru-desktop-wallpapers -->
-
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
